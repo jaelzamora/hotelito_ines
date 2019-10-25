@@ -301,7 +301,7 @@ html,body{
     justify-content: center;
     align-items: center;
 	position: relative;
-	background: url(../../assets/images/home/banner.jpg)no-repeat;
+    background: url(../../assets/images/home/banner1.jpg)no-repeat;
 	background-size: cover;
 	background-position: center;
 	min-height: 1000px;
@@ -321,7 +321,7 @@ html,body{
 	margin: -175px 0 0 0;
 }
 .about-us h2 {
-	color:#fff;	
+	color:#00d8d5;	
 	font-size:84px;
 	text-transform: inherit;
 	max-width: 800px;
