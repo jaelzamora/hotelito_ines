@@ -181,7 +181,7 @@ html,body{
     font-weight: 600;
 }
 .logo a span{
-    color: #00d84c;
+    color: #48C9B0;
     font-size: 40px;
     text-transform: capitalize;
 }
@@ -333,8 +333,7 @@ html,body{
 	line-height: 1.22;
 }
 .about-us h2 span{
-    font-size: 80%;
-	color:#48C9B0;
+    font-size: 80px;
 	margin-top: -11px;
 }
 .about-btn {
@@ -350,8 +349,8 @@ html,body{
 	display: flex;
     justify-content: center;
     align-items: center;
-    background: #00d8ff;
-    border: 1px solid #00d8ff;
+    background: #48C9B0;
+    border: 1px solid #48C9B0;
     width: 200px;
     height: 60px;
     white-space: nowrap;
@@ -369,9 +368,9 @@ html,body{
 }
 .about-btn:hover .about-view{
     color: #fff;
-    background: #00d8d5;
+    background: #48C9B0;
     box-shadow: 0 5px 20px rgba(14,15,18,.7);
-	border: 1px solid #00d8d5;
+	border: 1px solid #48C9B0;
 }
 .travel-mrt-0{
     margin-top: 0px;
@@ -400,7 +399,7 @@ html,body{
 
 .desc-tabs .nav-tabs>li.active>a{
 	color: #fff;
-    background: #00d8ff;
+    background: #48C9B0;
     cursor: default;
     font-size: 20px;
     font-weight: 500;
@@ -419,7 +418,7 @@ html,body{
 }
 .desc-tabs .nav-tabs>li>a{
 	color: #fff;
-    background: #00d8ff;
+    background: #48C9B0;
     cursor: default;
     font-size: 20px;
     font-weight: 500;
@@ -570,7 +569,7 @@ html,body{
 }
 
 .single-trip-circle input[type="radio"]:checked + label span.round-boarder1{
-     background-color:#00d8ff;
+     background-color:#48C9B0;
 }
 
 .single-trip-circle input[type="radio"] + label span.round-boarder1,
@@ -606,8 +605,8 @@ html,body{
 	border-radius: 5px;
 }
 .price_filter .ui-slider-handle.ui-state-default.ui-corner-all {
-    background: #00d8ff none repeat scroll 0 0;
-    border: 0px solid #00d8ff;
+    background: #48C9B0 none repeat scroll 0 0;
+    border: 0px solid #48C9B0;
     border-radius:50%;
     height: 12px;
     width: 12px;
@@ -615,7 +614,7 @@ html,body{
     cursor: pointer;
     z-index: 1;
 }
-.price_filter .ui-slider-range {background: #00d8ff none repeat scroll 0 0;}
+.price_filter .ui-slider-range {background: #48C9B0 none repeat scroll 0 0;}
 .price_slider_amount > input[type="text"] {
     font-weight: 500;
     font-size: 14px;
@@ -1012,7 +1011,7 @@ html,body{
     background: #aaa; 
 }
 .testemonial .owl-theme .owl-dots .owl-dot.active span{
-    background: #00d8ff;
+    background: #48C9B0;
 }/*owl-carousel*/
 
 /*home1-testm-txt*/
@@ -1029,7 +1028,7 @@ html,body{
 }
 .home1-testm-txt h3 a{
     display: block;
-    color: #00d8ff;
+    color: #48C9B0;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -1348,7 +1347,7 @@ html,body{
 
 /*appsLand-btn*/
 .appsLand-btn {
-    background: #00d8ff;
+    background: #48C9B0;
     display: inline-block;
     padding: 17px 54px;
     text-decoration: none;
@@ -1377,7 +1376,7 @@ html,body{
 }
 .appsLand-btn:hover {
     box-shadow: 0 3px 25px rgba(2, 3, 3, 0.25);
-    background: #00d8ff;
+    background: #48C9B0;
 }
 
 .appsLand-btn.appsLand-btn-larg {
@@ -1427,7 +1426,7 @@ html,body{
     padding: 10px 0 0 0;
 }
 .footer-logo a>span {
-    color: #00d8ff;
+    color: #48C9B0;
     text-transform: capitalize;
 } 
 .footer-logo p{
@@ -1458,7 +1457,7 @@ html,body{
     -ms-transition:scaleX(1.2);
     -o-transition:scaleX(1.2);
     transform:scaleX(1.2);
-    color: #00d8ff;
+    color: #48C9B0;
 }/*single-footer-txt*/
 
 .footer-copyright hr{
@@ -1519,7 +1518,7 @@ html,body{
     margin-top:28px;
 }
 .foot-icons p a,.foot-icons p a:hover,.foot-icons p a:focus{
-    color:#00d8ff;
+    color:#48C9B0;
     font-size:16px;
     margin-top:28px;
 }/*foot-icons*/
@@ -1541,8 +1540,8 @@ html,body{
     cursor: pointer;
     z-index:15;
     color: #fff;
-    background:#00d8ff;
-	border:1px solid #00d8ff;
+    background:#48C9B0;
+	border:1px solid #48C9B0;
 	border-radius:5px;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -1563,4 +1562,9 @@ html,body{
 
 /*========================Thank you=================*/
 
+
+/* propias */
+.span-home-azul {
+    color: #48C9B0;
+  }
 
