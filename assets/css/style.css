@@ -218,7 +218,7 @@ html,body{
 .main-menu  .nav  li.active a,
 .main-menu  .nav  li a:hover,
 .main-menu .nav  li a:focus{
-    color: #00d8ff;
+    color: #48C9B0;
     background-color:transparent;
 }
 .main-menu .nav a:before{
@@ -238,7 +238,7 @@ html,body{
 }
 .main-menu .nav li.active  a:before,
 .main-menu .nav a:hover:before{
-    background: #00d8ff;
+    background: #48C9B0;
     width: 100%;
 }
 
@@ -252,7 +252,7 @@ html,body{
     float:left;
 }
 .main-menu .navbar-toggle {
-    color: #00d8ff;
+    color: #48C9B0;
 }
 .main-menu .navbar-default .navbar-toggle:focus, 
 .main-menu .navbar-default .navbar-toggle:hover {
@@ -266,8 +266,8 @@ html,body{
 
 /*book-btn*/
 .book-btn {
-	background: #00d8ff;
-    border: 1px solid #00d8ff;
+	background: #48C9B0;
+    border: 1px solid #48C9B0;
     width: 120px;
     height: 40px;
     white-space: nowrap;
@@ -285,8 +285,8 @@ html,body{
 }
 .book-btn:hover{
     color: #fff;
-    background: #00d8d5;
-    border: 1px solid #00d8d5;
+    background: #48C9B0;
+    border: 1px solid #48C9B0;
 }/*book-btn*/
 
 /*-------------------------------------
@@ -334,7 +334,7 @@ html,body{
 }
 .about-us h2 span{
     font-size: 80%;
-	color:#00d84c;
+	color:#48C9B0;
 	margin-top: -11px;
 }
 .about-btn {
