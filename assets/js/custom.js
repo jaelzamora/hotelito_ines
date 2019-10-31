@@ -60,8 +60,8 @@ $(document).ready(function(){
         $( "#slider-range" ).slider({
             range: true,
             min: 0,
-            max: 12000,
-            values: [ 2677, 9241 ],
+            max: 1000,
+            values: [ 0, 120 ],
             slide: function( event, ui ) {
             $( "#amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
             }
@@ -166,7 +166,7 @@ $(document).ready(function(){
         
         //=============
 
-        $('li.smooth-menu a').bind("click", function(event) {
+        $('li.smooth-menu a, a.smooth-scroll').bind("click", function(event) {
             event.preventDefault();
             var anchor = $(this);
             $('html, body').stop().animate({
