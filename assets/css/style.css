@@ -890,6 +890,7 @@ html,body{
 }
 .single-package-item img {
     width: 100%;
+    border-radius: 5px;
 }
 .single-package-item h3{
     position: relative;
@@ -914,7 +915,7 @@ html,body{
 }
 .packages-para p{
     font-size: 14px;
-    color: #aaa;
+    color: #808080;
     font-family: 'Poppins', sans-serif;
     margin-bottom:15px;
 }
