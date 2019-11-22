@@ -14,7 +14,7 @@
 							<h1>Explora la belleza de Logroño</h1>
 							<div class="about-btn">
 								<a href="#desc-tabs" class="smooth-scroll">
-									<button onclick="" class="about-view">
+									<button class="about-view">
 										HAZ TU RESERVA
 									</button>
 								</a>
@@ -170,9 +170,11 @@
 										<!--/.col-->
 										<div class="col-sm-7">
 											<div class="about-btn travel-mrt-0 pull-right">
-												<button class="about-view travel-btn">
-													Buscar
-												</button>
+												<a href="<?= ROOT_PATH . 'reservas' ?>">
+													<button class="about-view travel-btn">
+														Buscar
+													</button>
+												</a>
 												<!--/.travel-btn-->
 											</div>
 											<!--/.about-btn-->
