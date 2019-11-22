@@ -14,7 +14,7 @@
 							<h1>Explora la belleza de Logroño</h1>
 							<div class="about-btn">
 								<a href="#desc-tabs" class="smooth-scroll">
-									<button class="about-view">
+									<button onclick="" class="about-view">
 										HAZ TU RESERVA
 									</button>
 								</a>
